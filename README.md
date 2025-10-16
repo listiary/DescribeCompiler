@@ -50,9 +50,7 @@ The final output will depend on the translator used - and you can easily write y
 - You can reach me on Viber as well: +359-885-18-05-86
 
 ## Sponsor  
-If you think that Describe is cool, or if, maybe, my project has been useful to you, and you want to see it grow and mature faster, why not throw few bucks my way? I'd highly appreciate that, and will feel really cool and significant 😎🤩🥳. You can donate on patreon or ko-fi, where I will be publishing some cool exclusive content and giving free tech support to my patrons (There is no content yet, as there are no patrons yet. There is support though 😄).
-- [Describe Markup Language on Patreon](https://www.patreon.com/DescribeMarkupLanguage)
-- [Describe Markup Language on Ko-Fi](https://ko-fi.com/viktorchernev)
+Listiary and Describe are designed to give everyone open, modular, and accessible tools for knowledge management. We’re currently setting up an Open Collective page where you’ll be able to contribute in the near future. Your support helps keep the project free, sustainable, and continuously evolving.
 
 ## Releases
 We are excited to present the Describe Markup Language Transpiler v1.0.
