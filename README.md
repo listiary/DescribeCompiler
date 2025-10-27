@@ -46,11 +46,13 @@ The final output will depend on the translator used - and you can easily write y
 
 ## Get in touch  
 - Use GitHub's issue reporter on the right
-- Send me an email vchernev91@abv.bg (might take a few days)
-- You can reach me on Viber as well: +359-885-18-05-86
+- Send an email contact@listiary.org
+- Or, contact the founder directly at vchernev91@abv.bg (might take a few days)
+- You can reach him on Viber as well: +359-885-18-05-86
 
 ## Sponsor  
-Listiary and Describe are designed to give everyone open, modular, and accessible tools for knowledge management. We’re currently setting up an Open Collective page where you’ll be able to contribute in the near future. Your support helps keep the project free, sustainable, and continuously evolving.
+<!-- Listiary and Describe are designed to give everyone open, modular, and accessible tools for knowledge management. We’re currently setting up an Open Collective page where you’ll be able to contribute in the near future. Your support helps keep the project free, sustainable, and continuously evolving. -->
+You can now support Listiary directly through <a href="https://opencollective.com/listiary" target="_blank">Open Collective</a> - a transparent platform for community funding. Your donation helps keep the project free, sustainable, and continuously evolving.
 
 ## Releases
 We are excited to present the Describe Markup Language Transpiler v1.0.
