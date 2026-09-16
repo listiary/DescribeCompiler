@@ -9,6 +9,10 @@ _Maintaining large data lists, made easy_
 
 Describe is a markup language designed to write and maintain complex data lists that are compiled on demand to various formats, such as html, xml, sql and json. It is simple to use, intuitive and easy to master. Describe is readily extendible - implementing support for new target languages or customizing the transpilation process is straightforward, making it adaptable to a wide range of projects.
 
+- [Describe Language - A quick overview](https://documentation.listiary.com/language/how-to-write/)
+- [Describe Language - 1001 source files directory](https://library.listiary.com/)
+- [Describe Language - Official documentation](https://documentation.listiary.com/)
+
 Built on a state of the art parsing platform such as ANTLR 4.13, Describe offers a robust grammar, although the compiler is currently in beta and some bugs are to be expected. It is available for free under the AGPL v3 license, but commercial licenses are negotiable as well.
 
 While ANTLR ensures strong grammar handling, the compiler is still under active development, and occasional bugs may occur. We appreciate your patience and value your contributions, as we continue to improve the tool.
@@ -42,8 +46,13 @@ The final output will depend on the translator used - and you can easily write y
 
 ## Get in touch  
 - Use GitHub's issue reporter on the right
-- Send me an email vchernev91@abv.bg (might take a few days)
-- You can reach me on Viber as well: +359-885-18-05-86
+- Send an email contact@listiary.org
+- Or, contact the founder directly at vchernev91@abv.bg (might take a few days)
+- You can reach him on Viber as well: +359-885-18-05-86
+
+## Sponsor  
+<!-- Listiary and Describe are designed to give everyone open, modular, and accessible tools for knowledge management. We’re currently setting up an Open Collective page where you’ll be able to contribute in the near future. Your support helps keep the project free, sustainable, and continuously evolving. -->
+You can now support Listiary directly through <a href="https://opencollective.com/listiary" target="_blank">Open Collective</a> - a transparent platform for community funding. Your donation helps keep the project free, sustainable, and continuously evolving.
 
 ## Releases
 We are excited to present the Describe Markup Language Transpiler v1.0.
