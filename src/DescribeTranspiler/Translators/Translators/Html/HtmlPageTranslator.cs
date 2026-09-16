@@ -219,6 +219,7 @@ namespace DescribeTranspiler.Translators
         /// <returns>The generated html code</returns>
         public override string? TranslateUnfold(DescribeUnfold u)
         {
+            string ssssss = u.ToJson();
             if (IsInitialized == false) return null;
 
             string data = "";
