@@ -5,11 +5,12 @@ The git folder.<br>
 
 `/.github`<br>
 Documents related to GitHub workflows, policies, etc.<br>
-
 <br>
+
 ```
 /release
 /release/0.9.0
+...
 /release/1.0.1-beta
 /release/latest-unstable
 ```
